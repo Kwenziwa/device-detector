@@ -1,8 +1,8 @@
 {
     "name": "kwenziwa/devicedetector",
     "description": "Device Detector is a versatile, easy-to-use package for  project that provides seamless device and operating system detection. Leveraging the robustness of mobiledetect/mobiledetectlib, this package allows developers to quickly identify whether a user is accessing their application from a mobile device, tablet, or desktop and determine the operating system, such as iOS or Android.",
-    "version": "1.0.0",
-    "type": "project",
+    "version": "1.0.1",
+    "type": "package",
     "require": {
         "php": "^7.3|^8.0",
         "mobiledetect/mobiledetectlib": "^2.8"
