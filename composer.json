@@ -26,7 +26,7 @@
     "extra": {
     "laravel": {
         "providers": [
-            "Kwenziwa\\src\\DeviceDetectorServiceProvider"
+            "Kwenziwa\\DeviceDetector\\DeviceDetectorServiceProvider"
         ]
     }
 }
