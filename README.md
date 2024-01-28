@@ -96,6 +96,18 @@ Returns the operating system of the user's device as a string (e.g., 'iOS', 'And
 $osType = $deviceDetector->getOSType();
 ```
 
+### `getBrowser()`
+
+Returns the  the browser name system of the user's device as a string.
+
+
+```bash
+$detector = new DeviceDetector();
+
+$browser = $detector->getBrowser();
+echo "Browser: $browser";
+```
+
 ## Run the Tests
 
 Run the tests using the PHPUnit command:
